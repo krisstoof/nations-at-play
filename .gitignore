@@ -1,0 +1,25 @@
+# Godot 4 generated data
+.godot/
+.import/
+.export/
+export.cfg
+export_presets.cfg
+
+# Mono/C# intermediate files (if enabled in the future)
+.mono/
+bin/
+obj/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated or bulky geographic datasets
+/data/raw/
+/data/generated/
+*.mbtiles
+*.gpkg
+*.tif
+*.tiff
